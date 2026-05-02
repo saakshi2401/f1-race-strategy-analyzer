@@ -73,15 +73,13 @@ There is no “one-size-fits-all” race strategy. Each Grand Prix requires tail
 
 ### Visualization
 - Matplotlib
-- Seaborn
 - Plotly
+- PowerBI
+
 
 ### Data Sources
-- FastF1 API / Ergast API (depending on implementation)
+- FastF1 API 
 - F1 historical race datasets
-
-### Optional Dashboard Tools (if used)
-- Streamlit / Power BI / Dash
 
 ---
 
