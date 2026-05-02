@@ -31,12 +31,7 @@ This project aims to:
 
 ## 🧠 Key Insights & Findings
 
-### 1. 🛞 Pit Stops Define Race Outcomes
-Strategic pit stop timing (undercut vs overcut) has a major impact on track position. Even a 1–2 lap difference can change race results significantly.
-
----
-
-### 2. 🔥 Tyre Strategy is Circuit Dependent
+### 1. 🔥 Tyre Strategy is Circuit Dependent
 - Soft tyres = high performance, high degradation  
 - Medium tyres = balanced performance  
 - Hard tyres = stable but slower pace  
@@ -45,17 +40,17 @@ Each circuit demands a unique tyre strategy based on temperature, surface, and t
 
 ---
 
-### 3. 📉 Lap Time Degradation is Predictable
+### 2. 📉 Lap Time Degradation is Predictable
 Lap times increase consistently after a certain number of laps in a stint due to tyre wear. Teams use this pattern to decide optimal pit windows.
 
 ---
 
-### 4. 🧩 Consistency Beats Peak Performance
+### 3. 🧩 Consistency Beats Peak Performance
 Drivers with stable lap times often outperform those with inconsistent high-speed laps, highlighting the importance of race rhythm over raw pace.
 
 ---
 
-### 5. 🏁 Strategy is Not Universal
+### 4. 🏁 Strategy is Not Universal
 There is no “one-size-fits-all” race strategy. Each Grand Prix requires tailored decision-making based on:
 - Track layout  
 - Weather conditions  
