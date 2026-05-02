@@ -14,10 +14,13 @@ This project analyzes Formula 1 race strategies using real-world lap data. It fo
 - Undercut strategy detection (based on tire changes)
 
 ## 📸 Dashboard Preview
-<img width="960" height="541" alt="image" src="https://github.com/user-attachments/assets/faf4c3ff-fe2e-4f8e-bd4b-1cdacaee3a3a" />
-<img width="508" height="314" alt="image" src="https://github.com/user-attachments/assets/ef507577-9e9c-4c33-8892-6b2bcc70f2bc" />
-<img width="605" height="288" alt="image" src="https://github.com/user-attachments/assets/5b6ee3dc-0188-4968-9dd4-69cd88e7dcbe" />
-<img width="962" height="540" alt="WhatsApp Image 2026-05-02 at 18 39 19" src="https://github.com/user-attachments/assets/1d1a021b-bfbf-4bc6-a8ce-e94faadc5349" />
+![output1](https://github.com/user-attachments/assets/82f6b676-2a74-4756-ab8c-ebd39d602eb3)
+![output2](https://github.com/user-attachments/assets/c5a46198-6436-4659-a854-4802f351d1c3)
+![output3](https://github.com/user-attachments/assets/429a5dfb-84e2-424c-8d02-eb5806251f09)
+
+
+
+
 
 
 
